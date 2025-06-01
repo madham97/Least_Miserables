@@ -1,6 +1,6 @@
 # Least Misérables: Bomberman Game Agent
 
-Welcome to the **Least Misérables** repository! This project is part of the Machine Learning Essentials Summer 2023 course, focusing on developing an intelligent agent to play the Bomberman game using machine learning techniques.
+Welcome to the **Least Misérables** repository! This project is part of the Machine Learning Essentials Summer 2023 course, focusing on developing an intelligent agent to play the Bomberman game using machine learning techniques. Detailed report included in Documentation.pdf
 
 ## Project Overview
 
